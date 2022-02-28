@@ -24,15 +24,15 @@ Suppose you are having JPA classes as  SavingAccountRepository.java and CurrentA
 
 Others most common example of responsibilities:
 
-Logging
-Formatting
-Validation
-Notification
-Error Handling
-Parsing
-Caching
-Mapping
-Class Section/ Instantiation etc.
+- Logging
+- Formatting
+- Validation
+- Notification
+- Error Handling
+- Parsing
+- Caching
+- Mapping
+- Class Section/ Instantiation etc.
 
 
 Benefits:
